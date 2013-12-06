@@ -1,0 +1,3 @@
+pictures/tree.bmp,fall,tree,leaves
+pictures/baketball.png,orange,ball
+pictures/download.jpeg
